@@ -1,0 +1,30 @@
+$clear => To clear screen
+$hostname => To Get hostname
+$whoami => username
+$ip addr show => System Ip address
+$poweroff => To poweroff
+$reboot => To reboot
+$man => help the command information
+$uptime => current system time
+
+
+User related
+============
+$sudo su -  => To run as super user (super user do)
+$useradd => add user
+$passwd => set password
+
+For software packages
+==========================
+$wget => To download a software
+For uninstallation
+dpkg -l | grep postgres
+sudo apt-get --purge remove pgdg-keyring postgresql-10 postgresql-client-10 postgresql-client-common postgresql-common
+
+
+
+WinScp => To copy windows to linux
+
+
+
+
